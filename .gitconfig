@@ -1,0 +1,5 @@
+[user]
+	name = jalindr
+	email = jalindr@live.in
+[core]
+	editor = 'C:\\Program Files (x86)\\Notepad++\\notepad++.exe' -multiInst -nosession
