@@ -68,3 +68,6 @@ la -al
 git remote add origin git@github.com:jalindr/Cygwin64_DotFiles.git
 git remote -v
 git add .
+git commit -am 'inital init'
+git push origin master
+git pull origin master
